@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>camille Blog</title>
+    <description>无</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 18 Oct 2018 14:02:23 +0800</pubDate>
+    <lastBuildDate>Thu, 18 Oct 2018 14:02:23 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>搭建博客的第一篇</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;一直想搭建一个个人的博客，将平时的技术总结沉淀下来   &lt;br /&gt;
+看了一圈，大部分都用的gitpage搭建的个人博客，于是风风火火搭建一个自己的博客，用于后续的技术沉淀用&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 18 Oct 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/10/18/HelloBlog/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/18/HelloBlog/</guid>
+        
+        <category>Blog</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
