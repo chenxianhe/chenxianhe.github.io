@@ -1,0 +1,108 @@
+I"<blockquote>
+  <p>“Yeah It’s on. ”</p>
+</blockquote>
+
+<h2 id="前言">前言</h2>
+
+<p>Camille人生的第一篇博客，就要开始了</p>
+
+<p><a href="#build">跳过废话，直接看Excel函数 </a></p>
+
+<p>2018年临近年末，camille在上海已经插科打诨将近3年了。</p>
+
+<p id="build"></p>
+<hr />
+
+<h2 id="正文">正文</h2>
+
+<p>接下来开启Excel常见数据分析函数篇。
+Excel进行数据分析，有几点优势：</p>
+<ul>
+  <li><strong>图形化</strong> 带来优雅的操作体验</li>
+  <li>所见即所得
+    <ul>
+      <li>哒哒哒哒</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h3 id="excel函数篇一match函数和index函数的使用">Excel函数篇一：Match函数和Index函数的使用</h3>
+<ul>
+  <li>1）<a href="https://jingyan.baidu.com/article/54b6b9c0d8426f2d583b478d.html"><strong>match函数</strong></a>：返回指定内容所在的位置
+    <ul>
+      <li>MATCH(lookup-value,lookup-array,match-type)
+        <ul>
+          <li>
+            <p>match-type: 查找方式。  有3种取值，即-1，0，1</p>
+
+            <table>
+              <thead>
+                <tr>
+                  <th>-1</th>
+                  <th>0</th>
+                  <th>1</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>模糊查找<br />lookup-array降序排列</td>
+                  <td>精确查找</td>
+                  <td>模糊查找<br />lookup-array升序排列</td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>2）<a href="https://jingyan.baidu.com/article/54b6b9c0d8426f2d583b478d.html"><strong>index函数</strong></a>：返回制定位置中的内容
+    <ul>
+      <li>INDEX(array,row-num,column-num)
+        <ul>
+          <li>row-num,column-num: 返回值所在的行号，返回值所在的列号</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>3）<a href="https://jingyan.baidu.com/article/0eb457e50efbcd03f1a905bd.html"><strong>find函数</strong></a>： 对要查找的文本进行定位，返回其位置
+    <ul>
+      <li>find(find_text,within_text,start_num)
+        <ul>
+          <li>Find（要查找的文本，文本所在的单元格，从第几个字符开始查找[可选，省略默认为1，从第一个开始查找]</li>
+          <li>返回值：目标文本在查找范围文本中所在的位置</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="dizhi" alt="这是图片" /></p>
+
+<p>https://www.jekyll.com.cn/docs/structure/ jekyll目录结构
+http://yansu.org/2014/02/12/how-to-deploy-a-blog-on-github-by-jekyll.html jekyll插入图片
+https://www.cnblogs.com/MuYunyun/p/6702053.html code.启动vscode</p>
+
+<p>黄金没有发行权，人民币有。何谓发行</p>
+
+<p>何谓做空</p>
+
+<p>何谓权责发生制–财务概念</p>
+
+<p>何谓IT审计，审计哪些内容</p>
+
+<p>何谓幕布</p>
+
+<ul>
+  <li>列表1</li>
+</ul>
+
+<p>换行<br />
+换
+行</p>
+
+<pre><code class="language-shell&amp;py&amp;java&amp;json">
+</code></pre>
+:ET

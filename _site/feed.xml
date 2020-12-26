@@ -3,24 +3,858 @@
   <channel>
     <title>camille Blog</title>
     <description>无</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 18 Oct 2018 14:02:23 +0800</pubDate>
-    <lastBuildDate>Thu, 18 Oct 2018 14:02:23 +0800</lastBuildDate>
-    <generator>Jekyll v3.8.4</generator>
+    <link>http://www.chenxianhe.cn/</link>
+    <atom:link href="http://www.chenxianhe.cn/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 26 Dec 2020 11:16:05 +0800</pubDate>
+    <lastBuildDate>Sat, 26 Dec 2020 11:16:05 +0800</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
-        <title>搭建博客的第一篇</title>
+        <title>Telecom</title>
+        <description>&lt;p&gt;带宽（速率）的统计单位：bps（比特/秒）
+速度：MB/s = bps/8 （1 Byte = 8 bits）
+下载时间：文件大小／速度，单位s（秒）
+流量：客户上网发送&amp;amp;接收的数据量总和，常用的统计单位为B（字节）&lt;/p&gt;
+
+&lt;p&gt;参见文档：https://blog.csdn.net/wz947324/article/details/80366945&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Nov 2020 00:00:00 +0800</pubDate>
+        <link>http://www.chenxianhe.cn/2020/11/30/telecom/</link>
+        <guid isPermaLink="true">http://www.chenxianhe.cn/2020/11/30/telecom/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello 2020</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;一直想搭建一个个人的博客，将平时的技术总结沉淀下来   &lt;br /&gt;
-看了一圈，大部分都用的gitpage搭建的个人博客，于是风风火火搭建一个自己的博客，用于后续的技术沉淀用&lt;/p&gt;
+  &lt;p&gt;“Yeah I am coming back. ”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;生活状态&quot;&gt;生活状态&lt;/h1&gt;
+&lt;p&gt;*2020年，疫情爆发，口罩断货， 人人恐慌，一人得病，全村遭殃。为了抑制疫情传播，人员流动，村里的老少爷们组织切断公路，每天村里的喇叭都在循环叫着“不要出门”&lt;/p&gt;
+
+&lt;p&gt;2020年，我不是一个人，我怀孕了，很幸福地感受着宝宝在肚子里面的变化，数着宝宝的胎动情况，时而蹬蹬小腿，时而伸伸懒腰，但整体还是很温柔的，宝宝没有对我拳打脚踢，晚上也几乎不起夜，是个天使宝宝没错了。因为疫情原因，我们在家待了两个多月，即使回到上海，也是在家办公，这对于怀着宝宝的我，无疑是一个还不错的生活状态。&lt;/p&gt;
+
+&lt;p&gt;2020年，我生娃了，经历了宫缩痛，经历了催产，经历了打无痛，经历了九死一生的顺产。我懂得了为母则刚，我明白了妈妈的伟大，我清楚了女人的坚强与不易&lt;/p&gt;
+
+&lt;p&gt;2020年，我回归工作了，陪伴娃的时间开始变得越来越少，我开始寻求更高效的工作方法，我每天急切的想早些下班回家抱一抱我亲爱的宝宝&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;9:30打卡制，可能受疫情影响，公司经济压力上升吧&lt;/li&gt;
+  &lt;li&gt;母婴室环境还不错，四个座位、四个桌子、一台母乳冷冻专用冰箱&lt;/li&gt;
+  &lt;li&gt;人员流动大，看来疫情并没有影响就业行情，大家都去了不错的公司
+    &lt;h2 id=&quot;读了一篇文章&quot;&gt;读了一篇文章&lt;/h2&gt;
+    &lt;p&gt;今天看了pmcaff一篇文章，有关于产品经理的职业规划，这也是我比较关心的一个话题。这个话题其实比较宏观，因为每个人的实际情况不同。整体有几个观点：&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;正确的职业规划，不是title的变化，而是技能和能力的跃迁&lt;/li&gt;
+  &lt;li&gt;一张通关地图（指明方向和里程碑） + 一棵技能树（可衡量），结合自身情况添加细节进行模型修正
+    &lt;ul&gt;
+      &lt;li&gt;推荐地图：王诗沐的地图，阅读《幕后产品》这本书&lt;/li&gt;
+      &lt;li&gt;推荐技能树：腾讯的能力模型&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;深入一篇文章&quot;&gt;深入一篇文章&lt;/h2&gt;
+    &lt;h3 id=&quot;读书进度更新&quot;&gt;读书进度更新&lt;/h3&gt;
+    &lt;h4 id=&quot;产品&quot;&gt;产品&lt;/h4&gt;
+    &lt;p&gt;《幕后产品》&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2020-12-03 产品经理要在一线深入了解客户
+2.
+    &lt;h4 id=&quot;项目管理&quot;&gt;项目管理&lt;/h4&gt;
+    &lt;p&gt;《PMP》&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;项目生命周期：预测型、迭代型、增量型、混合型
+    &lt;ul&gt;
+      &lt;li&gt;预测型：规划阶段知道全部的功能，并清楚需要达到的效果，全部功能按规划一次执行“设计-研发-测试-交付”&lt;/li&gt;
+      &lt;li&gt;迭代型：规划阶段知道全部的功能，但不清楚需要达到的效果，然后分多次迭代重复运行“设计-研发-测试-交付”&lt;/li&gt;
+      &lt;li&gt;增量型：规划阶段知道其中一个功能及需要达到的效果，逐步增加功能，每个功能按规划一次执行“设计-研发-测试-交付”
+        &lt;h2 id=&quot;后期规划&quot;&gt;后期规划&lt;/h2&gt;
+        &lt;h2 id=&quot;目标达成&quot;&gt;目标达成&lt;/h2&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Thu, 26 Nov 2020 23:00:00 +0800</pubDate>
+        <link>http://www.chenxianhe.cn/2020/11/26/</link>
+        <guid isPermaLink="true">http://www.chenxianhe.cn/2020/11/26/</guid>
+        
+        <category>产品</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sql</title>
+        <description>
+</description>
+        <pubDate>Mon, 28 Oct 2019 00:00:00 +0800</pubDate>
+        <link>http://www.chenxianhe.cn/2019/10/28/sql/</link>
+        <guid isPermaLink="true">http://www.chenxianhe.cn/2019/10/28/sql/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Diary Success</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;成功日记 (读小狗钱钱)
+1、在尝试用python读取mongodb数据后，我成功完成了数据处理，并通过邮件发送数据报表
+2、在和销售成为朋友后，我成功跨出一步，和销售去拜访了客户，并和客户一起吃了午饭，团队成员包括了销售、架构、产品经理
+3、我坚持每天读书，10min或者半小时
+4、PMI注册&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;下一步&quot;&gt;下一步&lt;/h1&gt;
+&lt;p&gt;1、python 连接mysql、echart
+2、请余杰喝咖啡，上次拜访客户汇邦蹭饭&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Oct 2019 00:00:00 +0800</pubDate>
+        <link>http://www.chenxianhe.cn/2019/10/23/diary-success/</link>
+        <guid isPermaLink="true">http://www.chenxianhe.cn/2019/10/23/diary-success/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Language</title>
+        <description>&lt;h1 id=&quot;lesson-1-控制语言的能力达到瞬间反应的能力母语控制一句话一系统&quot;&gt;lesson 1 控制语言的能力，达到瞬间反应的能力（母语控制）（一句话一系统）&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;1级重要：结构（组织句子，不要背）（本质） &lt;br /&gt;
+2级重要：翻译与造句（思维）（套结构） &lt;br /&gt;
+3级重要：语音（工具）（背单词解决不了忘单词的问题）（运用单词、补充单词）&lt;br /&gt;
+ 看懂
+ 组织
+ 快速&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;1时态定时态基调任何一句话都有时态共有16种时态这节课讲4种&quot;&gt;1、时态。定时态基调，任何一句话都有时态。共有16种时态，这节课讲4种&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;一般现在时：do/does&lt;/li&gt;
+  &lt;li&gt;一般过去时：did&lt;/li&gt;
+  &lt;li&gt;一般将来时：be going to do
+    &lt;ul&gt;
+      &lt;li&gt;will 是情态，不是时态&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;现在进行时：be doing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&quot;right&quot;&gt;
+&amp;lt;img src=../img/01-16种时态.jpg&amp;gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;2结构套公式造句疑问词时表词主语句剩动词&quot;&gt;2、结构。套公式造句：疑问词+时表词+主语+句剩+动词&lt;/h2&gt;
+&lt;p&gt;疑问词：when what why how&lt;/p&gt;
+&lt;div align=&quot;right&quot;&gt;
+&amp;lt;img src=../img/02-疑问词.jpg&amp;gt;
+&lt;/div&gt;
+&lt;p&gt;主语：动作发起者；宾语：动作的承受者。
+时表词：每个时态的第一个词是时表词，最后一个词是动词，剩下的就是句剩（只有一般将来时有句剩）。现在进行时，动词都要加ing&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;一般现在时：do/does&lt;/li&gt;
+  &lt;li&gt;一般过去时：did&lt;/li&gt;
+  &lt;li&gt;一般将来时：be&lt;/li&gt;
+  &lt;li&gt;现在进行时：be （am\are\is）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&quot;right&quot;&gt;
+&amp;lt;img src=../img/03-基本的4种时态.jpg&amp;gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;3造句-疑问句疑问句分两种疑问句和一般疑问句有疑问词叫疑问句没有疑问词的就叫一般疑问句&quot;&gt;3、造句-疑问句。疑问句分两种，疑问句和一般疑问句。有疑问词叫疑问句，没有疑问词的就叫一般疑问句。&lt;/h2&gt;
+&lt;p&gt;习惯用一般现在时。比如：你平常在家吃饭吗？&lt;/p&gt;
+
+&lt;div align=&quot;right&quot;&gt;
+&amp;lt;img src=../img/04-造句结构思维.jpg&amp;gt;
+&lt;/div&gt;
+&lt;p&gt;疑问词|时表词|主语|句剩|动词&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;|-|-|-|-|
+    &lt;ul&gt;
+      &lt;li&gt;|Do|you|eat at home?
+        &lt;h2 id=&quot;4造句-否定疑问句在时表词后加not&quot;&gt;4、造句-否定疑问句。在时表词后加not&lt;/h2&gt;
+        &lt;p&gt;习惯用一般现在时。比如：
+你平常不看电视吗？(一般现在时) ；
+你不准备买个手机吗？（一般将来时）；
+我们等会去哪间办公室签合同？（一般将来时）。
+疑问词|时表词|主语|句剩|动词&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;|-|-|-|-|
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;Don’t&lt;/td&gt;
+              &lt;td&gt;you&lt;/td&gt;
+              &lt;td&gt;-&lt;/td&gt;
+              &lt;td&gt;watch TV?&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+      &lt;li&gt;|Aren’t|you|-|going to buy a phone?
+which office|are|we|going to| 签合同 in?
+        &lt;h2 id=&quot;5控制语言不要让单词决定生死要具备控制语言的能力母语控制&quot;&gt;5、控制语言。不要让单词决定生死，要具备控制语言的能力（母语控制）&lt;/h2&gt;
+      &lt;/li&gt;
+      &lt;li&gt;先有结构，再想去记单词，并将此单词运用到不同的结构中。&lt;/li&gt;
+      &lt;li&gt;sign a contract 签合同&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;6不要背句子词组与句型不需要去背唯一要背的是词且背一个词就可以所谓固定搭配是是由结构而来副词是让有画面感&quot;&gt;6、不要背。句子、词组与句型不需要去背，唯一要背的是词，且背一个词就可以。所谓固定搭配是是由结构而来。副词是让有画面感&lt;/h2&gt;
+    &lt;h3 id=&quot;up&quot;&gt;up&lt;/h3&gt;
+    &lt;h3 id=&quot;醒着未睡-getstay-up&quot;&gt;醒着、未睡 get\stay up&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;He gets（变成、变得） up（醒着） = 他起床了&lt;/li&gt;
+  &lt;li&gt;Are you up? 你睡了吗？&lt;/li&gt;
+  &lt;li&gt;I was up（醒着） all the night yesterday=我昨天熬夜了&lt;/li&gt;
+  &lt;li&gt;He stayed（处于..状态） up（醒着） late(副词，到很晚)&lt;/li&gt;
+  &lt;li&gt;He stayed up to(到) late hours&lt;/li&gt;
+  &lt;li&gt;He stayed up until it was very late
+    &lt;h3 id=&quot;完全-giveusefinisheat-up&quot;&gt;完全 give\use\finish\eat up&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;eat up（完全）= 吃完&lt;/li&gt;
+  &lt;li&gt;give up（完全）= 放弃
+    &lt;h3 id=&quot;关闭-zipcloseshut-up&quot;&gt;关闭 zip\close\shut up&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;shut up（关闭）= 闭嘴；shut the door up = 关门，使门处于关闭着的状态&lt;/li&gt;
+  &lt;li&gt;come over（穿过..空间） here =(左边外国人常用，有画面感) 过来 = come here&lt;/li&gt;
+  &lt;li&gt;he came up to me = 他朝我走来 = he came to me
+    &lt;h3 id=&quot;分裂裂开-splitbreakdivid-up&quot;&gt;分裂、裂开 split\break\divid up&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;divid this thing up to five parts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;7不要背副词--动词分开理解再组合只要背一个单词组合词组句型是要靠组织和思维的&quot;&gt;7、不要背。副词 + 动词，分开理解再组合，只要背一个单词，组合（词组／句型）是要靠组织和思维的&lt;/h2&gt;
+&lt;p&gt;中文：往外（向外） + 走／跑／挪／看／睡／爬／靠／流 &lt;br /&gt;
+英语：back(/out/in/away) + go/come/run。比如中文回来，即go back&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;He is good(他是好的)&lt;/td&gt;
+          &lt;td&gt;at(在某方面) English = be good at 擅长 =》表示好的词有great\awsome\excellent\amazing\marvelous =》组合成词组,都表示擅长&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;good 和 at没有任何关系，把 good at放在一起背就是违背语言法则的，如果be good at \ be bad at …都要背，那是极其无意义的&lt;/li&gt;
+  &lt;li&gt;背be good at是擅长是错的，藏中文了
+    &lt;ul&gt;
+      &lt;li&gt;加be动词是为什么？=》good 是形容词，形容词只能造‘主+系+表’结构的句子。所以中国在背的是要带上be动词，一般都是be good at 一起背，防止学生造句成He good at english这种错误的句子。&lt;/li&gt;
+      &lt;li&gt;但这种教育模式会固化人的思维，不懂转变，没有真正控制语言。（be good at是3岁小孩背的，不用脑子）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;背be good at是擅长是错的，藏中文了
+    &lt;ul&gt;
+      &lt;li&gt;在某方面是好的 ==》只需要背at是在某方面就可以&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;背study abroad是出国留学是错的，藏中文了
+    &lt;ul&gt;
+      &lt;li&gt;难不成abroad是出国的意思？如果背“在国外学习”，那abroad不就是“在国外”的意思，那我还需要背词组study abroad吗？太讽刺了&lt;/li&gt;
+      &lt;li&gt;die abroad 客死他乡===》应该背在国外死了就可以了===》应该背abroad在国外就可以了&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;8作业补充-语音作业只看中文一遍中文一遍英文20秒内读完10句话&quot;&gt;8、作业补充 （语音作业只看中文，一遍中文一遍英文，20秒内读完10句话）&lt;/h2&gt;
+&lt;p&gt;1、who 和 whom的区别。who（主、宾）；whom（宾），但是当介词提前到疑问词前时，只能用whom。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;你在等谁？ = 你为了谁在等？= for whom are you waiting = who(whom) are you waiting for
+ 2、一个介词，一种汉语思维，能解决你一类句型&lt;/li&gt;
+  &lt;li&gt;我们在哪间办公室签订合同 = in which office are we going to sign the contract = which office are we going to sign the contract &amp;lt;font color=#FF000&amp;gt;in&amp;lt;/font&amp;gt;&lt;/li&gt;
+  &lt;li&gt;你准备用什么方式提高英语 = by what way are you going to improve your English = what way are you going to improve your English &amp;lt;font color=#FF000&amp;gt;by&amp;lt;/font&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;# lesson 2 母语级别的语言控制力 - 1）组织（时态、结构）；2）快速组织（语音作业）&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;控制语言能力是学习英语时，最本质也是最高级别的学习。知识点==》思维==》能力
+ 学习内容：记住10句中文，及其顺序。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div align=&quot;right&quot;&gt;
+&amp;lt;img src=../img/05-10句话模版.jpg&amp;gt;
+&lt;/div&gt;
+&lt;p&gt;这样随便给一个动词就可以套用这个模板造出任意的句子。。比如call&lt;/p&gt;
+
+&lt;p&gt;你给他打电话了吗（did）
+ 你为什么给他打电话（why did）
+ 你没给他打电话吗（didn’t）
+ 你为什么没给他电话（why didn’t）&lt;/p&gt;
+
+&lt;p&gt;你什么时候给他打电话(when did)
+ 你在哪给他打的电话(where did )
+ 你怎么给他打的电话(how did )&lt;/p&gt;
+
+&lt;p&gt;你和谁给他打电话（with whom did）
+ 你用啥手机给他打电话(with what did)(by what car)
+ 你用谁的手机给他打电话(with whose phone did)(by whose car)
+ 你用哪部手机给他打的电话(with which phone did)(by which car)&lt;/p&gt;
+&lt;div align=&quot;right&quot;&gt;
+&amp;lt;img src=../img/06-10句话-打电话案例.jpg&amp;gt;
+&lt;/div&gt;
+
+&lt;p&gt;through which window did the thief get in the room? = 小偷从哪扇窗口穿过房间的？(一般过去时)= which window did the thief get in the room through?&lt;/p&gt;
+
+&lt;p&gt;一个动词套用上面的10句话模版 * 4种时态 = 10个句子 * 4 = 40种句子
+ 换主语
+ 换结构（主语全部用他替代，先玩转结构，不会的单词再去学，结合情景背单词）
+ 40 * 8 * 8&lt;/p&gt;
+
+&lt;p&gt;take （物花人）（做作业花了我两小时） &amp;amp; spend (人花物)（我花两小时做做作业）
+ 你平常 什么时候… =&amp;gt; when do you…
+ 你平常 怎么…=&amp;gt; what do you …
+ 你平常 都和谁…=&amp;gt; with whom do you …
+ 你是通过什么方法…=&amp;gt; by what did you …&lt;/p&gt;
+&lt;h1 id=&quot;lesson-3&quot;&gt;lesson 3&lt;/h1&gt;
+&lt;p&gt;定语：对名词进行修饰和限定。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;前置定语：形容词、名词、不定代词。当有多个前置定语时，放置的顺序是 不定代词第1位、名词放第2位、形容词放第2位
+    &lt;ul&gt;
+      &lt;li&gt;I know the beautiful girl.&lt;/li&gt;
+      &lt;li&gt;I know the school girl.&lt;/li&gt;
+      &lt;li&gt;I know every girl.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;后置定语：介词短语（介词+名词）、句子（变成定语从句，要用连词）、过去分词（动词加ed即为过去分词，过去分词做定语表被动）。当有多个后置定语时，句子放第1位，介词短语放第2位
+    &lt;ul&gt;
+      &lt;li&gt;I like the girl in the room.&lt;/li&gt;
+      &lt;li&gt;I like the girl that you like.&lt;/li&gt;
+      &lt;li&gt;I know the girl born in BJ.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;连词：当后置定语是句子时，要用连词连接两个句子，规则是–&amp;gt;修饰物用that/which；修饰人用that/who&lt;/li&gt;
+  &lt;li&gt;句子不够长，就加定语，前后都可以加
+    &lt;ul&gt;
+      &lt;li&gt;我找到你丢的那部黑色手机了&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;I found the phone (第一步提主干)===&amp;gt; I found the black phone that you lost.（第二步加定语，此案例两个定语）&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;memory should be cherished（第一步提主干）====&amp;gt; Every good or bad memory that time gives us in out life should be cherished.（第二步加定语，多个定语时的放置顺序要记住）&lt;/li&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;在人生中的&lt;/td&gt;
+              &lt;td&gt;时光赋予我们的&lt;/td&gt;
+              &lt;td&gt;每一个&lt;/td&gt;
+              &lt;td&gt;好或坏的&lt;/td&gt;
+              &lt;td&gt;回忆都应该被珍惜&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 08 Oct 2019 00:00:00 +0800</pubDate>
+        <link>http://www.chenxianhe.cn/2019/10/08/Language/</link>
+        <guid isPermaLink="true">http://www.chenxianhe.cn/2019/10/08/Language/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Productmanager</title>
+        <description>&lt;p&gt;百度的技术、阿里的运营、腾讯的产品
+每个公司的文化和基因都是由创始人决定的
+“一切以用户价值为依归”的价值观贯穿于每一个产品决策中，会直接深入到每个人的行为准则中去 &lt;br /&gt;
+语言包装术语：领导、参与和见证了XXXX成功产品的诞生和成长&lt;/p&gt;
+
+&lt;p&gt;产品方法论体系建设，历程：
+1、唐韧 公众号
+2、《腾讯启示录》-薛军老师-原腾讯P12资深专家 （购买课程 ¥68）&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;读 《腾讯课堂90天产品实战班》 视频&lt;/p&gt;
+  &lt;h1 id=&quot;一-了解市场&quot;&gt;一 了解市场&lt;/h1&gt;
+  &lt;h1 id=&quot;二-了解需求需求定义需求表达需求管理&quot;&gt;二 了解需求（需求定义、需求表达、需求管理）&lt;/h1&gt;
+  &lt;h2 id=&quot;21-需求定义&quot;&gt;2.1 需求定义&lt;/h2&gt;
+  &lt;ul&gt;
+    &lt;li&gt;微信和QQ有什么区别？（产品面试常问）&lt;/li&gt;
+    &lt;li&gt;马斯洛需求层次理论
+      &lt;ul&gt;
+        &lt;li&gt;（由低到高金字塔）生理需求–安全需求–社交需求–尊重需求–自我实现&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;刚需，痛点&amp;amp;痒点
+      &lt;ul&gt;
+        &lt;li&gt;公司的产品解决了用户的哪些需求，是痛点还是痒点？一般国家禁止的是刚需，比如黄赌毒，可以研究下人性，人性本恶还是人性本善？&lt;/li&gt;
+        &lt;li&gt;痛点对应的就是解决核心的问题；痒点就是满足欲望&lt;/li&gt;
+        &lt;li&gt;痛点是刚需；痒点则是消费升级的副产品&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&amp;lt;font color=#FF0000&amp;gt;需求的分类&amp;lt;/font&amp;gt;
+      &lt;ul&gt;
+        &lt;li&gt;内部需求：用户需求、运营需求、技术需求、数据需求
+          &lt;ul&gt;
+            &lt;li&gt;用户需求：解决或满足用户在某些场景下为了达到某些目的所产生的需求&lt;/li&gt;
+            &lt;li&gt;运营需求：满足公司内部运营对某类事件或活动所产生的推广等性质的需求&lt;/li&gt;
+            &lt;li&gt;技术需求：产品经理需要关注并理解技术需求，版本迭代中投入一定的人力支持&lt;/li&gt;
+            &lt;li&gt;数据需求：数据一旦忘记埋是不可逆的，上报的时机要细想。数据指导产品，需做到问到任意的数据，均可以流畅的回答&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;外部需求：客户／合作需求、市场／战略需求
+          &lt;ul&gt;
+            &lt;li&gt;客户／合作需求：需平衡商业展示和用户体验&lt;/li&gt;
+            &lt;li&gt;市场／战略需求：战略需求往往代表着市场的前沿，具有一定的前瞻性与风险&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&amp;lt;font color=#FF0000&amp;gt;需求的来源&amp;lt;/font&amp;gt;
+      &lt;ul&gt;
+        &lt;li&gt;来源：用户访谈、数据分析、竞品分析、头脑风暴、用户反馈。（提升数据敏感度&amp;amp;用户敏感度、培养市场／行业敏感度 ）
+          &lt;ul&gt;
+            &lt;li&gt;用户反馈：归档，及时反馈的重要性&lt;/li&gt;
+            &lt;li&gt;竞品分析：选择相当的竞品、功能颗粒度足够细、长期维护竞品分析（带版本）、发掘竞品的产品发展路线、学会标注重点&lt;/li&gt;
+            &lt;li&gt;头脑风暴（纸笔）：3～8人，定义一个主题，零食、白板、便签条，提前准备（调动氛围、不要挨个发言）&lt;/li&gt;
+            &lt;li&gt;用户／市场调研
+              &lt;ul&gt;
+                &lt;li&gt;1）定性：面对面访谈、可用性测试。定性走开放性问题&lt;/li&gt;
+                &lt;li&gt;2）定量：问卷调查、PUSH、有偿。定量走简单可选择的问题&lt;/li&gt;
+                &lt;li&gt;观察 &amp;gt; 引导（不干扰调研对象的判断），深挖但不被误导&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;数据分析：通过基础的数据分析辅佐你想要优化的方向，是做需求的核心目的之一。（购买率、页面流失情况、功能使用情况、产品情况）。常见的数据类型：
+              &lt;ul&gt;
+                &lt;li&gt;基本数据（crash、DAU／MAU、留存）&lt;/li&gt;
+                &lt;li&gt;用户数据（性别、地域、标签）&lt;/li&gt;
+                &lt;li&gt;点击埋点（点击次数、点击人数）&lt;/li&gt;
+                &lt;li&gt;路径漏斗（页面层级、页面流失）&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;老板需求：老板和产品经理代表在同一个山上的两个位置，老板是在山顶上看这个事情（市场洞察、前瞻性、制高点），产品经理是在山腰上看这个事情，只有提高产品经理自身的格局和视野才能更有效的说服老板&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&amp;lt;font color=#FF0000&amp;gt;产品3板斧&amp;lt;/font&amp;gt;：用户反馈、竞品分析、头脑风暴&lt;/li&gt;
+        &lt;li&gt;腾讯的制度：希望产品培训生先去做一轮客服，再去做一轮测试&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&amp;lt;font color=#FF0000&amp;gt;需求的提炼&amp;lt;/font&amp;gt;
+      &lt;ul&gt;
+        &lt;li&gt;需求结构&amp;lt;font color=#FF0000&amp;gt;(4要素)&amp;lt;/font&amp;gt;。人物、场景、任务、目标。习惯性的针对每个需求都拆分成4个结构，并对其进行比对分析（是真or伪需求、值得做吗等）（&amp;lt;font color=#FF0000&amp;gt;做减法、少即是多&amp;lt;/font&amp;gt;）
+          &lt;blockquote&gt;
+            &lt;p&gt;案例：老板说，现在直播很火，我们做个运动直播吧？理清此需求的4要素： &lt;br /&gt;
+  人物：要分清使用者&amp;amp;决策者，人群范围是宽&amp;amp;窄，用户属性（与已有人群、目标人群、发展人群的重合度） &lt;br /&gt;
+  场景：用户使用场景&amp;amp;产品提供场景的融合度&lt;br /&gt;
+  任务：多样性，复杂程度 &lt;br /&gt;
+  目标：用户的目标&amp;amp;我们的目标&lt;/p&gt;
+          &lt;/blockquote&gt;
+        &lt;/li&gt;
+        &lt;li&gt;需求提炼
+          &lt;ul&gt;
+            &lt;li&gt;on the surface：用户的反馈1、老板的命令1、竞品做啦、市场很火=====》怎么办？要不要做？&lt;/li&gt;
+            &lt;li&gt;under the surface: 提炼需求。第一步，需求四要素提炼，提炼出需求1～需求N；第二步，实现路径、真伪辨别，形成真正的产品需求1～产品需求N；第三步，优先级、研发工作量，形成Feature List&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;课后作业。通过各种需求来源的方式，整理出10+的需求idea，用4要素提炼成各类需求，并整理成列表，并思考通过产品的什么路径／方式实现列表中的这些需求？常使用产品语言表达出来。
+  序号|需求类型|需求来源|需求秒数（4要素）|与产品的关系／好处|优先级 &lt;br /&gt;
+  :-:|:–:|:–:|–:|–:|–:|
+  1|xx|xx|xx|xx|xx&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;22-需求表达&quot;&gt;2.2 需求表达&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;需求的转化。需求的转化：将用户需求转化成产品需求，涉及场景、功能点。
+    &lt;ul&gt;
+      &lt;li&gt;需求结构之用户角色===》细分用户&lt;/li&gt;
+      &lt;li&gt;需求结构之目标===》产品目标&lt;/li&gt;
+      &lt;li&gt;需求结构之使用场景===》需求&amp;amp;场景&lt;/li&gt;
+      &lt;li&gt;需求结构之任务===》功能&amp;amp;交互&lt;/li&gt;
+      &lt;li&gt;需求结构之界面操作===》具体界面&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;需求列表的要求。Feature List
+    &lt;ul&gt;
+      &lt;li&gt;形成Feature List===》功能描述（解决问题的行为与操作）、目标描述（可量化及明确的点）
+  模块|子模块|功能|功能描述|目标描述|需求来源|需求类型|优先级|工作量|备注
+  :-:|:–:|:–:|–:|–:|–:|–:|–:|–:|–:|
+  |xx|xx|xx|xx|xx|xx|xx|xx|xx|&lt;/li&gt;
+      &lt;li&gt;其要求是：明确的下一版本发展方向，细化分析，挖掘需求，梳理完成功能流程图、功能结构图、需求清单。
+        &lt;ul&gt;
+          &lt;li&gt;需求归类（定义性质、定义主题）&lt;/li&gt;
+          &lt;li&gt;优先级判断（重要&amp;amp;紧急）&lt;/li&gt;
+          &lt;li&gt;缩小范围（1～2个大点or若干围绕一个主题的小点）&lt;/li&gt;
+          &lt;li&gt;多脑暴、PK，形成一两个可做的事情&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;需求表达常见的问题
+    &lt;ul&gt;
+      &lt;li&gt;（问题）思考的不够全面、关联性不够清晰、复杂逻辑梳理困难、文字表达不直观、产品／研发／测试缺少统一参照标准&lt;/li&gt;
+      &lt;li&gt;（解决）发散思维、层级关系&amp;amp;俯视地图、梳理逻辑关系、图形化表达、归档&lt;/li&gt;
+      &lt;li&gt;（工具）思维导图、产品结构图&amp;amp;功能结构图、功能／页面流程图、交互原型图、需求文档
+        &lt;ul&gt;
+          &lt;li&gt;&amp;lt;font color=#FF0000&amp;gt;思维导图（分析&amp;amp;调研）&amp;lt;/font&amp;gt;：（是什么？）1点多线1面；（有什么用？）从点到面的联想、理清思路、记录灵感&lt;/li&gt;
+          &lt;li&gt;&amp;lt;font color=#FF0000&amp;gt;产品结构图（分析&amp;amp;调研）&amp;lt;/font&amp;gt;：重在呈现整体产品结构、体现模块／页面之间的关系、页面&amp;amp;功能、颗粒度粗&amp;amp;细。防止出现缺页面，缺模块的现象，以鸟瞰的方式对整个产品的页面结构形成一个直观的认识
+            &lt;ul&gt;
+              &lt;li&gt;思考：产品结构图按功能拆分还是按页面拆分？—要综合看，如果一个功能贯穿多个页面，那还是按功能合适&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&amp;lt;font color=#FF0000&amp;gt;功能结构图（分析&amp;amp;调研）&amp;lt;/font&amp;gt;：颗粒度够细、适度提炼功能&lt;/li&gt;
+          &lt;li&gt;&amp;lt;font color=#FF0000&amp;gt;流程图（梳理思维、逻辑归纳）&amp;lt;/font&amp;gt;：表达复杂业务逻辑，提高效率必备
+            &lt;ul&gt;
+              &lt;li&gt;主要元素（60%）：一圆（开始结束）一方（节点）一菱（判断）一线（走向）&lt;/li&gt;
+              &lt;li&gt;常见结构：顺序结构、选择结构、循环结构&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&amp;lt;font color=#FF0000&amp;gt;原型图（可视化、文档化）&amp;lt;/font&amp;gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&quot;right&quot;&gt;
+&amp;lt;img src=../img/PM_translate_needs.jpg height='330' width='495'&amp;gt;
+&amp;lt;img src=../img/PM_Feature_list.jpg height='330' width='495'&amp;gt;
+&amp;lt;img src=../img/PM_Demand_expression_problem.jpg height='330' width='495'&amp;gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;23-需求管理&quot;&gt;2.3 需求管理&lt;/h2&gt;
+&lt;h3 id=&quot;231-需求管理&quot;&gt;2.3.1 需求管理&lt;/h3&gt;
+&lt;p&gt;1需求池 —(经过真伪判断、重要紧急判断)—&amp;gt; 2形成Feature List —(经过上会评审、优先级判断、工作量判断)—&amp;gt; 3形成版本需求—(需求拆小，优先级没有重复，工作量评估)—&amp;gt; 4形成P0～Pn&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;需求池（需求池管理：明确接口人、明确时间、保持更新、保持反馈）
+    &lt;ul&gt;
+      &lt;li&gt;产品需求池。编号、模块、需求描述、需求类型、接口人、优先级、责任人、排入版本&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;产品决策（去伪存真：用户、场景、数据、成本）&lt;/li&gt;
+  &lt;li&gt;需求优先级（优先级判断：用户判断、场景判断、生命周期、需求马斯洛、紧急重要四象限）&lt;/li&gt;
+  &lt;li&gt;产品迭代（产品迭代：版本规划）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;232-需求真伪&quot;&gt;2.3.2 需求真伪&lt;/h3&gt;
+&lt;p&gt;总结：需求没有真正的真伪，只有适合不适合。学会模拟用户及使用场景，养成逆向思维习惯
+1）以用户为中心 &lt;br /&gt;
+2）以场景为中心 &lt;br /&gt;
+3）以数据为衡量标准（定期复盘，版本上线2周后），不怕做事后诸葛亮。（反驳老板、运营等的依据，哈哈）
+以成本为考量（ROI-商业价值、开发成本、用户价值）&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;以投入时间为横坐标，以预期价值为纵坐标，分为4个象限。第2象限是第一考虑的，即投入时间短，预期价值高的象限&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;233-需求优先级与版本&quot;&gt;2.3.3 需求优先级与版本&lt;/h3&gt;
+&lt;p&gt;总结：三大优先策略是，线上问题优先，核心业务优先，战略需求优先。另根据用户分析法、场景分析法、马斯洛需求本质分析法、产品周期分析法得到需求优先级P0～P3&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;font color=#FF0000&amp;gt;紧急重要四象限&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;紧急又重要的事情太多，代表需求管理有问题‘&lt;/li&gt;
+  &lt;li&gt;重点放在重要不紧急的事情&lt;/li&gt;
+  &lt;li&gt;对于紧急不重要的事情，可做，但不要投入过多的人力和精力&lt;/li&gt;
+  &lt;li&gt;尽量少做不紧急也不重要的需求&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;lt;font color=#FF0000&amp;gt;决定P0～P3需求优先级的方法：用户分析、场景分析、马斯洛需求本质分析、产品周期分析&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1）生命周期判断（以随时间变化的产品活跃率来分成四个生命周期）
+    &lt;ul&gt;
+      &lt;li&gt;引入期Introduction
+        &lt;ul&gt;
+          &lt;li&gt;建议关注指标：获取用户Acquisition&lt;/li&gt;
+          &lt;li&gt;产品发展：形成初期，匹配市场（基础功能&amp;amp;尝试）&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;成长期Growth
+        &lt;ul&gt;
+          &lt;li&gt;建议关注指标：提升活跃Activation，提高留存率Retention&lt;/li&gt;
+          &lt;li&gt;产品发展：扩张（打磨体验类的需求）&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;成熟期Maturity
+        &lt;ul&gt;
+          &lt;li&gt;建议关注指标：获取营收Revenue，传播Referral&lt;/li&gt;
+          &lt;li&gt;产品发展：收入，口碑（运营需求，合作需求）&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;衰退期Decline
+        &lt;ul&gt;
+          &lt;li&gt;建议关注指标：提高留存&lt;/li&gt;
+          &lt;li&gt;产品发展：开拓&amp;amp;尝试&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2）马斯洛需求分析法
+    &lt;ul&gt;
+      &lt;li&gt;金字塔（由底层向上）：生理需求（优先级最高，能用）–安全需求（易用）–社交需求（好用）–尊重需求（爱用）–自我实现（传播）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3）用户分析法（产品用户分布）
+    &lt;ul&gt;
+      &lt;li&gt;核心用户&lt;/li&gt;
+      &lt;li&gt;中间用户&lt;/li&gt;
+      &lt;li&gt;外围用户&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;4）场景分析法
+    &lt;ul&gt;
+      &lt;li&gt;功能使用人数&lt;/li&gt;
+      &lt;li&gt;产生问题的频次&lt;/li&gt;
+      &lt;li&gt;满意度&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;三-产品设计&quot;&gt;三 产品设计&lt;/h1&gt;
+&lt;h1 id=&quot;四-产品运营&quot;&gt;四 产品运营&lt;/h1&gt;
+</description>
+        <pubDate>Mon, 23 Sep 2019 00:00:00 +0800</pubDate>
+        <link>http://www.chenxianhe.cn/2019/09/23/ProductManager/</link>
+        <guid isPermaLink="true">http://www.chenxianhe.cn/2019/09/23/ProductManager/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello 2019</title>
+        <description>&lt;p&gt;1、行业报告用途&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;战略决策&lt;/li&gt;
+  &lt;li&gt;产品方向&lt;/li&gt;
+  &lt;li&gt;市场策略&lt;/li&gt;
+  &lt;li&gt;产品设计&lt;/li&gt;
+  &lt;li&gt;广告定价&lt;/li&gt;
+  &lt;li&gt;投资，等等&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2、行业报告良莠不齐，依据和口径不同，需要一定经验来辩证看待
+3、行业报告的材料偏行业性质，最好结合案头定性定量的研究辅助
+&lt;a href=&quot;https://www.zhihu.com/question/19766160&quot;&gt;&lt;strong&gt;行业分析报告&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Sep 2019 20:00:00 +0800</pubDate>
+        <link>http://www.chenxianhe.cn/2019/09/19/report/</link>
+        <guid isPermaLink="true">http://www.chenxianhe.cn/2019/09/19/report/</guid>
+        
+        <category>report</category>
+        
+        <category>Meta</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Money</title>
+        <description>&lt;h1 id=&quot;理财就是理生活&quot;&gt;理财就是理生活&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;不困于昨天，不怠于今天，不惧于未来&lt;/p&gt;
+  &lt;h2 id=&quot;一小狗钱钱读书笔记&quot;&gt;一、《小狗钱钱》读书笔记&lt;/h2&gt;
+  &lt;p&gt;1、理财3个建议&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;愿望清单：保留最重要的3个，删除干扰选项，人的精力有限，专注重要的事情&lt;/li&gt;
+    &lt;li&gt;梦想相册：视觉化作用，想到成功后的情景&lt;/li&gt;
+    &lt;li&gt;梦想储蓄罐：为每个梦想准备一个储蓄罐，人生没有试用装，just do it&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;2、赚钱有方法&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1、要树立自信，像富人一样坚持写“成功日记”。案例：比如今天多锻炼了10min等&lt;/li&gt;
+  &lt;li&gt;2、要有方法，1）为别人解决问题；2）把精力放在你知道的事情和能够做的事情上。案例：巴菲特冬天送报纸到屋内的服务&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;3、成功的3个原则&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1、遇到困难的时候，仍然要坚持自己的想法&lt;/li&gt;
+  &lt;li&gt;2、要每天不间断地去做对你的未来意义重大的事情（PS：21天理论，养成习惯）&lt;/li&gt;
+  &lt;li&gt;3、当决定做一件事情的时候，你必须在72小时之内完成它，否则你很可能永远不会再做了&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;4、不要杀死你的鹅&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1、保护本金，控制风险&lt;/li&gt;
+  &lt;li&gt;2、控制负债。
+    &lt;ul&gt;
+      &lt;li&gt;1）扔掉所有信用卡，用现金支付；&lt;/li&gt;
+      &lt;li&gt;2）尽可能少的偿还贷款，通货膨胀，钱会缩水。但信用卡债以日计息且循环复利，额外每月还需支付滞纳金，请尽量早还；&lt;/li&gt;
+      &lt;li&gt;3）对于消费贷款，欠债的人应将不用于生活的钱存起来一半，另一半用于还债；&lt;/li&gt;
+      &lt;li&gt;4）对于所有的消费，都要问一问自己“这真的有必要吗？”，分清必要、需要和想要，控制自己的消费。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;5、投资有方法&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;要有合理的资产配置，预留应急资金&lt;/li&gt;
+  &lt;li&gt;要有富人思维，二八法则，20%用于消费，80%投资赚取更多的钱&lt;/li&gt;
+  &lt;li&gt;投资遵循3个原则：
+    &lt;ul&gt;
+      &lt;li&gt;1）要安全：控制投资风险，应该把钱投资在安全的地方，不要过分注重投资收益&lt;/li&gt;
+      &lt;li&gt;2）要有收益：钱应该能下很多金蛋，即衡量投资收益，但前提是评估了风险&lt;/li&gt;
+      &lt;li&gt;3）要充分了解投资对象：投资应该简单明白，不懂的就不要碰&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;二余额宝有很大风险&quot;&gt;二、余额宝有很大风险&lt;/h2&gt;
+&lt;p&gt;1、指标&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CPI：Consumer Price Index 消费者物价指数&lt;/li&gt;
+  &lt;li&gt;GDP：Gross Domestic Product 国内生产总值&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;三股票&quot;&gt;三、股票&lt;/h2&gt;
+&lt;p&gt;1、“哈佛教条”：对于任何人而言，无论每月的收入是多是少，一定要先存下20%，再花剩下的80%。
+    * 思维一，先存钱，再花剩下的
+    * 思维二，先花钱，再把剩下的存起来
+2、荐股群的目的就是骗钱
+3、股票的本质就是，公司拿出部分的所有权换取资金，用于后续的经营发展
+4、股票赚钱有两种方式，一种是公司分红（投资股票的赚钱方式，企业盈利了，就会对购买股权的人进行分红）；另一种是低买高卖（赚取差价）
+5、感悟：1）目标设定；2）储蓄；3）对待消费的态度；4）对保险的态度；5）对待股市的态度；6）打折的思维（寻找价格低于价值的公司）；7）开源；8）运气&lt;/p&gt;
+
+&lt;h2 id=&quot;四家庭资产配置&quot;&gt;四、家庭资产配置&lt;/h2&gt;
+&lt;p&gt;投资品类：银行存款、理财产品、信托、P2P、商品期货、基金、股票、房产
+资产配置-标准普尔家庭资产象限图（百度可搜）：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;要花的钱（&lt;strong&gt;日常开销账户&lt;/strong&gt; 10%）：短期消费
+    &lt;ul&gt;
+      &lt;li&gt;要点：3～6个月的生活费&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;保命的钱（&lt;strong&gt;杠杆账户&lt;/strong&gt; 20%）：意外重疾保障
+    &lt;ul&gt;
+      &lt;li&gt;要点：专款专用，以小博大，解决家庭突发的大开支&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;生钱的钱（&lt;strong&gt;投资收益账户&lt;/strong&gt; 30%）：重在收益
+    &lt;ul&gt;
+      &lt;li&gt;要点：股票、基金、房产等，投资!=理财，看得见收益就看得见风险&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;保本升值的钱（&lt;strong&gt;长期收益账户&lt;/strong&gt; 40%）：保本升值
+    &lt;ul&gt;
+      &lt;li&gt;要点：养老金、子女教育金等，债券、信托、分红险，本金安全、收益稳定、持续成长&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;分清资产和负债
+    &lt;ul&gt;
+      &lt;li&gt;资产：把钱放进你口袋的东西；负债，把钱从你的口袋里取走的东西&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;分清必要和需要和想要
+    &lt;ul&gt;
+      &lt;li&gt;住个单间足够安身，但却住了一室户，那么单间是必要，一室户是需要。想要是欲望的写照，比如要住高级精装修公寓。&lt;/li&gt;
+      &lt;li&gt;不买会死吗？（会，必要）以后买会死吗？（不会，需要）买个便宜的会死吗？（不会，想要）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;名人名言系列&quot;&gt;名人名言系列&lt;/h2&gt;
+&lt;p&gt;巴菲特名言–在别人贪婪的时候我恐惧，在别人恐惧的时候我贪婪。&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 17 Sep 2019 00:00:00 +0800</pubDate>
+        <link>http://www.chenxianhe.cn/2019/09/17/money/</link>
+        <guid isPermaLink="true">http://www.chenxianhe.cn/2019/09/17/money/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello 2019</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“产品出具的本地axure原型，希望让开发团队通过网络访问，如何实现？ ”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;搭建nginx&quot;&gt;搭建nginx&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.cnblogs.com/tandaxia/p/8810648.html&quot;&gt;Mac搭建Nginx配置过程&lt;/a&gt;，步骤简单描述如下：  &lt;br /&gt;
+1、安装Nginx&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;brew install nginx&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;2、启动nginx&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;sudo nginx&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;3、访问&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;http://localhost:8080/ 查看nginx在本机搭建的服务，默认开放端口8080&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;自定义网站和端口&quot;&gt;自定义网站和端口&lt;/h1&gt;
+&lt;p&gt;1、将axure文件生成为原型文件。（操作：点击发布—生成原型文件）  &lt;br /&gt;
+2、打开mac 命令行终端，复制原型文件的物理路径&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;cd  &lt;br /&gt;
+pwd&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;3、准备编辑nginx的配置文件：nginx.conf&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;vim /usr/local/etc/nginx/nginx.conf  &lt;a href=&quot;https://www.cnblogs.com/seven1979/p/4249245.html&quot;&gt;vim光标移动&lt;/a&gt;&lt;br /&gt;
+视图模式下，set number显示行号   &lt;a href=&quot;https://www.cnblogs.com/star520/p/9081357.html&quot;&gt;vim行号&lt;/a&gt;   &lt;br /&gt;
+视图模式下，30G快速移动光标至第30行&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;4、编辑nginx的配置文件：nginx.conf&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;按i进入编辑模式
+新增 user root owner;
+&lt;img src=&quot;/img/in-post/nginx-configure.png&quot; alt=&quot;自定义开放的端口和映射本地网站路径&quot; /&gt;，如图  &lt;br /&gt;
+保存退出&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;5、重新启动nginx&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;sudo nginx -s reload&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;6、本地访问&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;localhost:自定义端口号&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;7、团队成员网络访问&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;ifconfig 查看本机IP（en0 inet）
+浏览器中输入本机IP:自定义端口 访问axure原型文件&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Thu, 18 Oct 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/10/18/HelloBlog/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/10/18/HelloBlog/</guid>
+        <pubDate>Tue, 14 May 2019 22:00:00 +0800</pubDate>
+        <link>http://www.chenxianhe.cn/2019/05/14/nginx/</link>
+        <guid isPermaLink="true">http://www.chenxianhe.cn/2019/05/14/nginx/</guid>
         
-        <category>Blog</category>
+        <category>IT</category>
+        
+        <category>Meta</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Linux</title>
+        <description>&lt;p&gt;scp是secure copy的简写，用于在Linux下进行远程拷贝文件的命令，和它类似的命令有cp，不过cp只是在本机进行拷贝不能跨服务器，而且scp传输是加密的。https://www.cnblogs.com/webnote/p/5877920.html&lt;/p&gt;
+
+&lt;p&gt;axure预览字体变大:  浏览器里设置的字体最小显示未12号字体，你的原型如果有10号字，它会自动变成12号，所以会折行，解决办法就是把浏览器设置里最小字体改成10号，希望对你有帮助&lt;/p&gt;
+
+&lt;p&gt;Markdown:  https://www.jianshu.com/p/f3147a804368&lt;/p&gt;
+
+&lt;p&gt;nohup 和 &amp;amp;后台运行，进程查看及终止(https://www.cnblogs.com/zzyoucan/p/7764590.html)(http://blog.itpub.net/26277071/viewspace-714531/)
+nohup &lt;command /&gt; &amp;amp;
+jobs -l 查看运行的后台进程
+关闭终端（terminal）
+启动终端
+jobs -l 不可查看运行的后台进程（因为：jobs命令只看当前终端生效的，关闭终端后，在另一个终端jobs已经无法看到后台跑得程序了，此时利用ps（进程查看命令））(https://www.cnblogs.com/baby123/p/6477429.html)
+ps -ef | grep &lt;command /&gt;  ( ps -aux | grep &lt;command /&gt; )&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 May 2019 00:00:00 +0800</pubDate>
+        <link>http://www.chenxianhe.cn/2019/05/14/linux/</link>
+        <guid isPermaLink="true">http://www.chenxianhe.cn/2019/05/14/linux/</guid>
         
         
       </item>

@@ -31,8 +31,9 @@ const PRECACHE_LIST = [
 ]
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
-  "chenxianhe.cn",
-  "chenxianhe.github.io"
+  "huangxuan.me",
+  "yanshuo.io",
+  "cdnjs.cloudflare.com"
 ]
 const DEPRECATED_CACHES = ['precache-v1', 'runtime', 'main-precache-v1', 'main-runtime']
 

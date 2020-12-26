@@ -1,0 +1,60 @@
+I"e<blockquote>
+  <p>“产品出具的本地axure原型，希望让开发团队通过网络访问，如何实现？ ”</p>
+</blockquote>
+
+<h1 id="搭建nginx">搭建nginx</h1>
+<p><a href="https://www.cnblogs.com/tandaxia/p/8810648.html">Mac搭建Nginx配置过程</a>，步骤简单描述如下：  <br />
+1、安装Nginx</p>
+<blockquote>
+  <p>brew install nginx</p>
+</blockquote>
+
+<p>2、启动nginx</p>
+<blockquote>
+  <p>sudo nginx</p>
+</blockquote>
+
+<p>3、访问</p>
+<blockquote>
+  <p>http://localhost:8080/ 查看nginx在本机搭建的服务，默认开放端口8080</p>
+</blockquote>
+
+<h1 id="自定义网站和端口">自定义网站和端口</h1>
+<p>1、将axure文件生成为原型文件。（操作：点击发布—生成原型文件）  <br />
+2、打开mac 命令行终端，复制原型文件的物理路径</p>
+<blockquote>
+  <p>cd  <br />
+pwd</p>
+</blockquote>
+
+<p>3、准备编辑nginx的配置文件：nginx.conf</p>
+<blockquote>
+  <p>vim /usr/local/etc/nginx/nginx.conf  <a href="https://www.cnblogs.com/seven1979/p/4249245.html">vim光标移动</a><br />
+视图模式下，set number显示行号   <a href="https://www.cnblogs.com/star520/p/9081357.html">vim行号</a>   <br />
+视图模式下，30G快速移动光标至第30行</p>
+</blockquote>
+
+<p>4、编辑nginx的配置文件：nginx.conf</p>
+<blockquote>
+  <p>按i进入编辑模式
+新增 user root owner;
+<img src="/img/in-post/nginx-configure.png" alt="自定义开放的端口和映射本地网站路径" />，如图  <br />
+保存退出</p>
+</blockquote>
+
+<p>5、重新启动nginx</p>
+<blockquote>
+  <p>sudo nginx -s reload</p>
+</blockquote>
+
+<p>6、本地访问</p>
+<blockquote>
+  <p>localhost:自定义端口号</p>
+</blockquote>
+
+<p>7、团队成员网络访问</p>
+<blockquote>
+  <p>ifconfig 查看本机IP（en0 inet）
+浏览器中输入本机IP:自定义端口 访问axure原型文件</p>
+</blockquote>
+:ET
